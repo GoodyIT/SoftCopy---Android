@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EEEEEE</color>
+    <color name="colorPrimaryDark">#1797c0</color>
+    <color name="colorPrimaryDark23">#E0E0E0</color>
+    <color name="colorAccent">#1797c0</color>
+
+    <color name="mcam_color_light">#64050505</color>
+    <color name="mcam_color_dark">#333333</color>
+</resources>
